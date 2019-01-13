@@ -1,0 +1,4 @@
+#Sun Jan 13 17:02:40 IST 2019
+base.0=/home/mrinalmriyo/Downloads/onCreate_Essentials-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
